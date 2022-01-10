@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\bin\Debug\net6.0\CSharpMethodsA.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\bin\Debug\net6.0\CSharpMethodsA.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\bin\Debug\net6.0\CSharpMethodsA.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\bin\Debug\net6.0\CSharpMethodsA.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\bin\Debug\net6.0\ref\CSharpMethodsA.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\bin\Debug\net6.0\CSharpMethodsA.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\CSharpMethodsA.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\CSharpMethodsA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\CSharpMethodsA.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\CSharpMethodsA.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\CSharpMethodsA.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\CSharpMethodsA.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\ref\CSharpMethodsA.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\CSharpMethodsA.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\CSharpMethods\CSharpMethodsA\CSharpMethodsA\CSharpMethodsA\obj\Debug\net6.0\CSharpMethodsA.genruntimeconfig.cache
